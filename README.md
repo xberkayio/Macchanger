@@ -13,7 +13,7 @@ This Python script allows you to change your MAC address on a Kali Linux system.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/xberkay-o/Macchanger
+git clone https://github.com/xberkayio/Macchanger
 ```
 ```bash
 cd Macchanger
